@@ -3,3 +3,4 @@
 
 
 - Revisão Projeto Inicial C#
+- Cadastro de Séries C#
